@@ -1,0 +1,6 @@
+
+****** INPUT *******
+
+If you have specific text to be scrambled , save it as a txt file and enter the file name in the program runtime.
+
+If there is no such file, the program generates a text file with the same name you have entered during the runtime.

@@ -1,2 +1,2 @@
 # scrambling_python
-Python code for scrambling text in a file
+Python code for scrambling text in a file.
